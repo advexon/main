@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1047213749947",
+    "firebase_url": "https://todar-7607c-default-rtdb.firebaseio.com",
+    "project_id": "todar-7607c",
+    "storage_bucket": "todar-7607c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047213749947:android:4796d9e20d48f2903d9b9e",
+        "android_client_info": {
+          "package_name": "com.advexon.todar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047213749947-pcfp6lak91j9j029op4ce28gfs26b095.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwFtZciFPluK6KW5RmQ1jeOgYX8FyWyH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047213749947-pcfp6lak91j9j029op4ce28gfs26b095.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1047213749947-hfl02l1fjhda5ss50s5mjeeejhtqd9r7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.advexon.todar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

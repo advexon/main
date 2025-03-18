@@ -1,0 +1,19 @@
+{
+	"app_name": "TODAR",
+	"app_description": "TODAR is a mobile app for delivery services in Tajikistan",
+	"app_identifier": "com.advexon.todar",
+	"ios_app_version": "1.0.0",
+	"android_app_version": "100",
+	"firebaseProjectId": "todar-7607c",
+	"googleApiKeys": {
+		"ios": "AIzaSyAWumggJqkSzM691vvxNYFcsr67AFn8KvI",
+		"android": "AIzaSyAWumggJqkSzM691vvxNYFcsr67AFn8KvI",
+		"web": "AIzaSyAWumggJqkSzM691vvxNYFcsr67AFn8KvI",
+		"server": "AIzaSyAWumggJqkSzM691vvxNYFcsr67AFn8KvI"
+	},
+	"expo_owner": "parceltj",
+	"expo_slug": "todar",
+	"expo_project_id": "0236b45e-1074-4846-a660-741c2ae9ca5b",
+	"admin_email": "mirzoevsish@gmail.com",
+	"purchase_code": "60204060-bf2e-46b7-a133-27c7191cbe80"
+}
